@@ -77,7 +77,31 @@ class DoubleLinkedList:
         else:
                 self.head=None
             
-
+    def deleteAtPos(self, pos):
+        if self.head is None:
+            return
+        
+        temp=self.head
+        
+        if pos==1:
+          self.head=temp.next
+          if self.head is not None:
+              self.head.prev=None
+              return
+          
+        for i in range(pos-1):
+            if temp is None:
+                return
+            temp=temp.next
+            
+        if temp is None:
+              return
+          
+        if temp.prev is not None:
+            temp.prev.next=temp.next
+            
+        if temp.next is not None:
+            temp.next.prev=temp.prev
 dll=DoubleLinkedList()
 
 first=Node(10)
@@ -92,6 +116,7 @@ third.prev=second
 
 dll.insertAtBegining(50)
 dll.insertAtLast(60)
-dll.instertAtPos(14,2)
+dll.instertAtPos(14,3)
 dll.deleteNode()
+dll.deleteAtPos(2)
 dll.printList()
