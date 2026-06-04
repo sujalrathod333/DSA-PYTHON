@@ -8,9 +8,8 @@ reverse linked list II
 middle of linked list
 sort an array
 Palindrome Linked List
-
+Delete Middle of the Linked List
 
 next question for solved
 Reorder List
 Find the Duplicate Number
-Delete Middle of the Linked List
