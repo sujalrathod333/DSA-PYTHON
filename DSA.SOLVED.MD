@@ -9,6 +9,9 @@ middle of linked list
 sort an array
 Palindrome Linked List
 Delete Middle of the Linked List
+remove nth node from the end of the list
+swapping nodes in linked list
+contains duplicate
 
 next question for solved
 Reorder List

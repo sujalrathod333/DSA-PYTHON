@@ -30,6 +30,41 @@ class LinkedList:
         prev.next=slow.next
         return head    
                 
+    def deleteNth(self, head, n):
+        dummy=Node(0)
+        dummy.next=head
+        slow=dummy
+        fast=dummy
+        
+        for _ in range(n+1):
+            fast=fast.next
+        
+        while fast:
+          slow=slow.next
+          fast=fast.next
+          
+        slow.next=slow.next.next
+        
+        return dummy.next
+    
+    def swapNode(self, head, k):
+        first=head
+        
+        for _ in range(k-1):
+            first=first.next
+        
+        fast=first
+        second=head
+        
+        while fast.next:
+            fast=fast.next
+            second=second.next
+            
+        first.data, second.data= second.data, first.data
+        
+        return head
+    
+    
 ll = LinkedList()
 
 first=Node(10)
@@ -53,5 +88,5 @@ seventh.next=None
 ll.head= first
 
 # ll.printLinkedList()
-ll.head = ll.deleteMiddle(ll.head)
+ll.head = ll.swapNode(ll.head, 2)
 ll.printLinkedList()

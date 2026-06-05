@@ -8,7 +8,7 @@ secondLarge = -1
 
 for i in range(len(arr)):
 
-    if arr[i] % 2 == 0:
+    if arr[i] % 2 != 0:
         
         if arr[i] > maxEven:
             secondLarge = maxEven
