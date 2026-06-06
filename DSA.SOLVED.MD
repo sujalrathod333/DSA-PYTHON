@@ -12,6 +12,12 @@ Delete Middle of the Linked List
 remove nth node from the end of the list
 swapping nodes in linked list
 contains duplicate
+contains duplicate II
+Remove Duplicates from Sorted Array
+Remove Duplicates from Sorted Array II
+Running sum of 1d array
+sort array by parity
+
 
 next question for solved
 Reorder List
