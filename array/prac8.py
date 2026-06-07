@@ -13,9 +13,19 @@ def duplicate(nums):
     seen=set()
     for num in nums:
         if num in seen:
-            return True
+            return num
         seen.add(num)
-        
+
+
+def findDuplicate(nums):
+        seen=set()
+        for num in nums:
+         if num in seen:
+             return num
+        return False
+    
+    
+    
 nums=[1,44,66,77,9,1]
 print(duplicate(nums))
 

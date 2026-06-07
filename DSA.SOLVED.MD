@@ -17,8 +17,22 @@ Remove Duplicates from Sorted Array
 Remove Duplicates from Sorted Array II
 Running sum of 1d array
 sort array by parity
-
+Find the Duplicate Number
+fibonacci number
+Reorder List
 
 next question for solved
-Reorder List
-Find the Duplicate Number
+Remove Element
+Move Zeroes
+Majority Element
+Intersection of Two Arrays
+Squares of a Sorted Array
+Two Sum II
+Find Pivot Index
+Valid Anagram
+Matrix Diagonal Sum
+Transpose Matrix
+Richest Customer Wealth
+Find Numbers with Even Number of Digit
+Maximum Consecutive Ones
+Find the Highest Altitude
