@@ -20,9 +20,9 @@ sort array by parity
 Find the Duplicate Number
 fibonacci number
 Reorder List
+Remove Elemet
 
 next question for solved
-Remove Element
 Move Zeroes
 Majority Element
 Intersection of Two Arrays
