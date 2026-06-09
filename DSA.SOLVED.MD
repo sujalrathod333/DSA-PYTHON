@@ -21,6 +21,9 @@ Find the Duplicate Number
 fibonacci number
 Reorder List
 Remove Elemet
+power of two
+
+
 
 next question for solved
 Move Zeroes
