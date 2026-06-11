@@ -22,11 +22,11 @@ fibonacci number
 Reorder List
 Remove Elemet
 power of two
-
+Move Zeroes
+pow(x,n)
 
 
 next question for solved
-Move Zeroes
 Majority Element
 Intersection of Two Arrays
 Squares of a Sorted Array
@@ -39,3 +39,8 @@ Richest Customer Wealth
 Find Numbers with Even Number of Digit
 Maximum Consecutive Ones
 Find the Highest Altitude
+
+
+prompt for practicing 
+mene leetcode me jo question solve kiye hai uska practice karna chahata hu so muze tuze question dunga uska proper explanation batao aur thoda samjhao how to solve it bus solution jab tak mangunga nahi tab tak mat dena question is 
+
