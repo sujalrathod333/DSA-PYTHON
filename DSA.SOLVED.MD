@@ -24,6 +24,12 @@ Remove Elemet
 power of two
 Move Zeroes
 pow(x,n)
+count odd number in an interval of range
+how many numbers are smaller than the current number
+count the digit that divide a number
+palindrome number
+subtract the product and sum of digits of an integer
+kids with the greatest number of candies
 
 
 next question for solved
