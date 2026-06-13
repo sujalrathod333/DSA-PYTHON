@@ -24,13 +24,21 @@ Remove Elemet
 power of two
 Move Zeroes
 pow(x,n)
+fizzbuzz
 count odd number in an interval of range
 how many numbers are smaller than the current number
 count the digit that divide a number
 palindrome number
 subtract the product and sum of digits of an integer
 kids with the greatest number of candies
-
+maximum subarray
+best time to buy and sell stock
+best time to buy and sell stock II
+richest customer wealth
+spiral matrix
+defanging an IP address
+valid palindrome
+reverse string
 
 next question for solved
 Majority Element
