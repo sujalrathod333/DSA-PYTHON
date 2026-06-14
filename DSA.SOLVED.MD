@@ -39,12 +39,12 @@ spiral matrix
 defanging an IP address
 valid palindrome
 reverse string
+two sum II
 
 next question for solved
 Majority Element
 Intersection of Two Arrays
 Squares of a Sorted Array
-Two Sum II
 Find Pivot Index
 Valid Anagram
 Matrix Diagonal Sum
