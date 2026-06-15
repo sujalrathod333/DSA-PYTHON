@@ -40,6 +40,7 @@ defanging an IP address
 valid palindrome
 reverse string
 two sum II
+intersection of two arrays
 
 next question for solved
 Majority Element
