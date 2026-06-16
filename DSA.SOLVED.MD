@@ -41,6 +41,7 @@ valid palindrome
 reverse string
 two sum II
 intersection of two arrays
+first unique character in string
 
 next question for solved
 Majority Element
