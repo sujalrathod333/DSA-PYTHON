@@ -42,13 +42,16 @@ reverse string
 two sum II
 intersection of two arrays
 first unique character in string
+Valid Anagram
+ransome note
+find the difference
+Intersection of Two Arrays II
 
 next question for solved
 Majority Element
 Intersection of Two Arrays
 Squares of a Sorted Array
 Find Pivot Index
-Valid Anagram
 Matrix Diagonal Sum
 Transpose Matrix
 Richest Customer Wealth
