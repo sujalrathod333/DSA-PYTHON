@@ -46,6 +46,7 @@ Valid Anagram
 ransome note
 find the difference
 Intersection of Two Arrays II
+group anagram
 
 next question for solved
 Majority Element
@@ -60,6 +61,26 @@ Maximum Consecutive Ones
 Find the Highest Altitude
 
 
-prompt for practicing 
-mene leetcode me jo question solve kiye hai uska practice karna chahata hu so muze tuze question dunga uska proper explanation batao aur thoda samjhao how to solve it bus solution jab tak mangunga nahi tab tak mat dena question is 
+I want to practice LeetCode problems I've already solved.
 
+I'll give you a problem — your job is to:
+1. Explain what the problem is actually asking (in simple words)
+2. Ask me what approach/intuition I have
+3. Give hints one by one if I'm stuck — never give the full solution directly
+4. If my logic is wrong, tell me WHY it's wrong, don't just correct it
+5. If my code has bugs, point me toward the bug, don't fix it for me
+6. Only give the full solution when I explicitly say "give me the solution"
+
+Also after I solve it:
+- Tell me the time & space complexity
+- Tell me if a better approach exists
+- Give me 1-2 similar problems to practice the same pattern
+
+Reply in Hinglish (Hindi + English mix) — same way we've been talking.
+
+First problem is: [PROBLEM NAME/DESCRIPTION HERE]
+
+"[Problem/Code] ko mujhe ekdum beginner ki tarah samjhao.
+Har function alag alag explain karo — kyu likha, kya karta hai.
+Ek real example lo aur usse step by step trace karo.
+Last mein batao — aisi situation mein general approach kya honi chahiye."
