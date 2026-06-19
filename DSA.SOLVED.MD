@@ -47,6 +47,7 @@ ransome note
 find the difference
 Intersection of Two Arrays II
 group anagram
+substring of size three with distinct characters
 
 next question for solved
 Majority Element
