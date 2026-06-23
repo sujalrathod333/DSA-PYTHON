@@ -50,6 +50,8 @@ group anagram
 substring of size three with distinct characters
 longest substring without repeating characters
 merge sorted array
+non overlaping intervals
+binary search
 
 next question for solved
 Majority Element
