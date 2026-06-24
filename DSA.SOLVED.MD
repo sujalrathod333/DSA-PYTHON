@@ -52,6 +52,10 @@ longest substring without repeating characters
 merge sorted array
 non overlaping intervals
 binary search
+search insert position
+first and last position of element in sorted array
+search in roated sorted array
+peak index in mountain array
 
 next question for solved
 Majority Element
