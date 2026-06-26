@@ -56,6 +56,7 @@ search insert position
 first and last position of element in sorted array
 search in roated sorted array
 peak index in mountain array
+remove duplicate from sorted list
 
 next question for solved
 Majority Element
