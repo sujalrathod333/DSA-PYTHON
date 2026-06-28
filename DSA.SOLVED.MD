@@ -58,6 +58,8 @@ search in roated sorted array
 peak index in mountain array
 remove duplicate from sorted list
 rotate list
+intersection of two linked list
+Add two number
 
 next question for solved
 Majority Element
