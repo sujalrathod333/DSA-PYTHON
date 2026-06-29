@@ -60,6 +60,8 @@ remove duplicate from sorted list
 rotate list
 intersection of two linked list
 Add two number
+impementating queue using stack
+valid parentheses
 
 next question for solved
 Majority Element
