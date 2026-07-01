@@ -62,6 +62,8 @@ intersection of two linked list
 Add two number
 impementating queue using stack
 valid parentheses
+backspace string compare
+longest common prefix
 
 next question for solved
 Majority Element
