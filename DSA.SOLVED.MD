@@ -64,6 +64,7 @@ impementating queue using stack
 valid parentheses
 backspace string compare
 longest common prefix
+next greater eleement I
 
 next question for solved
 Majority Element
