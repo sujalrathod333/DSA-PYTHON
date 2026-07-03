@@ -65,6 +65,7 @@ valid parentheses
 backspace string compare
 longest common prefix
 next greater eleement I
+next greater eleement II
 
 next question for solved
 Majority Element
