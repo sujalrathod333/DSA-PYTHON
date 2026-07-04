@@ -66,6 +66,7 @@ backspace string compare
 longest common prefix
 next greater eleement I
 next greater eleement II
+roman to integer
 
 next question for solved
 Majority Element
