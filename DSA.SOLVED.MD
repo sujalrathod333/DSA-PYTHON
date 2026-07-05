@@ -67,6 +67,10 @@ longest common prefix
 next greater eleement I
 next greater eleement II
 roman to integer
+binary tree postorder traversal
+binary tree preorder traversal
+binary tree inorder traversal
+
 
 next question for solved
 Majority Element
