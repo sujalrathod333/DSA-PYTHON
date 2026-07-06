@@ -70,6 +70,10 @@ roman to integer
 binary tree postorder traversal
 binary tree preorder traversal
 binary tree inorder traversal
+binary tree ka level order traversal
+binary tree ka level order traversal II
+binary tree zigzag level order traversal
+
 
 
 next question for solved
