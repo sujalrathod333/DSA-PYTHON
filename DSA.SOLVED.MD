@@ -74,6 +74,8 @@ binary tree ka level order traversal
 binary tree ka level order traversal II
 binary tree zigzag level order traversal
 maximum depth of binary tree
+balanced binary tree
+insert into a binary search tree
 
 
 
