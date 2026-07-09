@@ -76,6 +76,8 @@ binary tree zigzag level order traversal
 maximum depth of binary tree
 balanced binary tree
 insert into a binary search tree
+450 delete Node in a BST
+
 
 
 
