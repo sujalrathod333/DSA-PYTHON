@@ -78,6 +78,7 @@ balanced binary tree
 insert into a binary search tree
 delete Node in a BST
 merge k sorted list
+validate binary search tree
 
 
 
