@@ -79,7 +79,9 @@ insert into a binary search tree
 delete Node in a BST
 merge k sorted list
 validate binary search tree
-
+kth largest number in array
+last stone weight
+find if path exits in graph
 
 
 
