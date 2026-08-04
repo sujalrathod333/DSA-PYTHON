@@ -82,6 +82,7 @@ validate binary search tree
 kth largest number in array
 last stone weight
 find if path exits in graph
+find the town judge
 
 
 
