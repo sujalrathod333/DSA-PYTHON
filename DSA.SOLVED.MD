@@ -85,6 +85,9 @@ find if path exits in graph
 find the town judge
 find center of star grapgh
 flood fill
+number of islands
+island perimeter
+shuffle the array
 
 
 next question for solved
