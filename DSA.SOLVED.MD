@@ -89,6 +89,7 @@ number of islands
 island perimeter
 shuffle the array
 baseball game
+Min Stack
 
 
 next question for solved
