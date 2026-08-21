@@ -91,7 +91,7 @@ shuffle the array
 baseball game
 Min Stack
 Remove All Adjacent Duplicates In String
-
+Removing Stars From String
 
 next question for solved
 Majority Element
