@@ -92,6 +92,9 @@ baseball game
 Min Stack
 Remove All Adjacent Duplicates In String
 Removing Stars From String
+maxmium number of words found in sentence
+jewels and stones
+number of good pairs
 
 next question for solved
 Majority Element
@@ -104,6 +107,7 @@ Richest Customer Wealth
 Find Numbers with Even Number of Digit
 Maximum Consecutive Ones
 Find the Highest Altitude
+concatenation of array
 
 
 I want to practice LeetCode problems I've already solved.
