@@ -108,6 +108,7 @@ Find Numbers with Even Number of Digit
 Maximum Consecutive Ones
 Find the Highest Altitude
 concatenation of array
+Remoive Outermost Parenthesis
 
 
 I want to practice LeetCode problems I've already solved.
