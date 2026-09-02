@@ -109,6 +109,8 @@ Maximum Consecutive Ones
 Find the Highest Altitude
 concatenation of array
 Remoive Outermost Parenthesis
+minimum add to make paranthesis valid
+make the string great
 
 
 I want to practice LeetCode problems I've already solved.
