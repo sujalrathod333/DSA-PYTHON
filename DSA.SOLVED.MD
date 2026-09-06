@@ -111,6 +111,9 @@ concatenation of array
 Remoive Outermost Parenthesis
 minimum add to make paranthesis valid
 make the string great
+climbing stairs
+min cost climbing stairs
+house robber
 
 
 I want to practice LeetCode problems I've already solved.
